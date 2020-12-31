@@ -1,0 +1,30 @@
+C:/Users/cgylu/source/repos/Student Database/Student Database/bin/Debug/Student Database.exe.config
+C:/Users/cgylu/source/repos/Student Database/Student Database/bin/Debug/Student Database.exe
+C:/Users/cgylu/source/repos/Student Database/Student Database/bin/Debug/Student Database.pdb
+C:/Users/cgylu/source/repos/Student Database/Student Database/bin/Debug/Student Database.xml
+C:/Users/cgylu/source/repos/Student Database/Student Database/obj/Debug/Student Database.vbprojAssemblyReference.cache
+C:/Users/cgylu/source/repos/Student Database/Student Database/obj/Debug/Student_Database.Find.resources
+C:/Users/cgylu/source/repos/Student Database/Student Database/obj/Debug/Student_Database.Main.resources
+C:/Users/cgylu/source/repos/Student Database/Student Database/obj/Debug/Student_Database.Resources.resources
+C:/Users/cgylu/source/repos/Student Database/Student Database/obj/Debug/Student_Database.Report.resources
+C:/Users/cgylu/source/repos/Student Database/Student Database/obj/Debug/Student Database.vbproj.GenerateResource.cache
+C:/Users/cgylu/source/repos/Student Database/Student Database/obj/Debug/Student Database.vbproj.CoreCompileInputs.cache
+C:/Users/cgylu/source/repos/Student Database/Student Database/obj/Debug/Student Database.exe
+C:/Users/cgylu/source/repos/Student Database/Student Database/obj/Debug/Student Database.xml
+C:/Users/cgylu/source/repos/Student Database/Student Database/obj/Debug/Student Database.pdb
+C:/Users/cgylu/source/repos/Student Database/Student Database/obj/Debug/Student_Database.AddFOrm.resources
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/bin/Debug/Student Database.exe.config
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/bin/Debug/Student Database.exe
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/bin/Debug/Student Database.pdb
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/bin/Debug/Student Database.xml
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/obj/Debug/Student Database.vbprojAssemblyReference.cache
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/obj/Debug/Student_Database.AddForm.resources
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/obj/Debug/Student_Database.Find.resources
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/obj/Debug/Student_Database.Main.resources
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/obj/Debug/Student_Database.Resources.resources
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/obj/Debug/Student_Database.Report.resources
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/obj/Debug/Student Database.vbproj.GenerateResource.cache
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/obj/Debug/Student Database.vbproj.CoreCompileInputs.cache
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/obj/Debug/Student Database.exe
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/obj/Debug/Student Database.xml
+/Users/samuelhomer/Downloads/Sam/Shared Folder PC to Mac/FInal/Student Database/Student Database/obj/Debug/Student Database.pdb
